@@ -5,6 +5,7 @@
   "main": "index.html",
   "dependencies": {
     "auto-prefixer": "^0.4.2",
+    "autoprefixer": "^10.4.20",
     "concat": "^1.0.3",
     "define-data-property": "^1.1.4",
     "hasown": "^2.0.2",
